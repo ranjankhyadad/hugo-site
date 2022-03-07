@@ -64,7 +64,7 @@ To see all possible configurations, [check the docs](docs/config.md).
 Note: There are more options to configure. Take a look into the `config.toml` in `exampleSite`.
 
 ``` toml
-baseurl      = "localhost"
+baseurl      = "ranjankhyadad.github.io"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"

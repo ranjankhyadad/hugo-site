@@ -207,7 +207,7 @@ WARN: 2014/09/29 Unable to locate layout: [404.html]
 0 categories created
 in 2 ms
 Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
+Web Server is available at http://ranjankhyadad.github.io:1313
 Press Ctrl+C to stop
 ```
 
@@ -463,7 +463,7 @@ WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
 in 2 ms
 Watching for changes in /Users/quoha/Sites/zafta/content
 Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
+Web Server is available at http://ranjankhyadad.github.io:1313
 Press Ctrl+C to stop
 INFO: 2014/09/29 File System Event: ["/Users/quoha/Sites/zafta/themes/zafta/layouts/index.html": MODIFY|ATTRIB]
 Change detected, rebuilding site
@@ -541,7 +541,7 @@ $ cat public/index.html
 <body>
   <p>hugo says hello!</p>
 <script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
+        + (location.host || 'ranjankhyadad.github.io').split(':')[0]
     + ':1313/livereload.js?mindelay=10"></'
         + 'script>')</script></body>
 </html>
@@ -831,7 +831,7 @@ $ cat public/post/second/index.html
 $
 ```
 
-Notice that the posts now have content. You can go to localhost:1313/post/first to verify.
+Notice that the posts now have content. You can go to ranjankhyadad.github.io:1313/post/first to verify.
 
 ### Linking to Content
 
@@ -941,12 +941,12 @@ $ cat public/index.html
 <!DOCTYPE html>
 <html>
 <body>
-    <h1><a href="http://localhost:1313/post/theme/">creating a new theme</a></h1>
-    <h1><a href="http://localhost:1313/about-time/">about</a></h1>
-    <h1><a href="http://localhost:1313/post/second-post/">second</a></h1>
-    <h1><a href="http://localhost:1313/post/first-post/">first</a></h1>
+    <h1><a href="http://ranjankhyadad.github.io:1313/post/theme/">creating a new theme</a></h1>
+    <h1><a href="http://ranjankhyadad.github.io:1313/about-time/">about</a></h1>
+    <h1><a href="http://ranjankhyadad.github.io:1313/post/second-post/">second</a></h1>
+    <h1><a href="http://ranjankhyadad.github.io:1313/post/first-post/">first</a></h1>
 <script>document.write('<script src="http://'
-        + (location.host || 'localhost').split(':')[0]
+        + (location.host || 'ranjankhyadad.github.io').split(':')[0]
 		+ ':1313/livereload.js?mindelay=10"></'
         + 'script>')</script></body>
 </html>
