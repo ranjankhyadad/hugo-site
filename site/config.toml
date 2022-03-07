@@ -1,4 +1,4 @@
-baseURL = "http://ranjankhyadad.github.io"
+baseURL = "https://ranjankhyadad.github.io/"
 footnoteReturnLinkContents = '↩'
 title   = "Ranjan Khyadad"
 description = "Portfolio site"
