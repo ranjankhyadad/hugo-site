@@ -1,1 +1,3 @@
-## Here's a review of all my projects so far
+## Please follow me on Github for a detailed overview of my projects.
+
+{{< projects >}}
