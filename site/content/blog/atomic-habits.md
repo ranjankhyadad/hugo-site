@@ -5,8 +5,6 @@ draft: false
 author: "Ranjan"
 ---
 
-# My Takeaways
-
 # Chapter1
 
 ## Growth
@@ -40,6 +38,6 @@ Ex - Ice cube, bamboo, earthquake etc..
 - Fix the inputs, outputs fix themselves
 - Goals restrict your happiness
 - Long term thinking >> goals.
-*You do not rise to the level of your goals, but fall to the level of your system!* 
+- *You do not rise to the level of your goals, but fall to the level of your system!* 
 
 
