@@ -40,4 +40,16 @@ Ex - Ice cube, bamboo, earthquake etc..
 - Long term thinking >> goals.
 - *You do not rise to the level of your goals, but fall to the level of your system!* 
 
+## Changing identities are the fundamental way to change yourself
+- Process >> outcomes
+- Three levels of change -
+    - Outcome change
+    - Process change
+    - Identity change (most effective)
+- Use habits to change beliefs about youself.
+- Don't aim for big money, think of yourself as rich instead. Don't aim to exercise daily, instead think of yourself as an athlete. Don't aim to learn a music instrument, think you are a musician instead.
+- Habits are the best paths to change identity. 
+- Evidence of everyday change. No one-offs. 
 
+1. Decide who you want to be - pinciples and values
+2. Prove it to yourseld with small wins
